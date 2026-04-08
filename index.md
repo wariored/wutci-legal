@@ -25,7 +25,19 @@ this with third parties.
 - We do not use advertising tracking
 - We do not share data with third parties
 
-## Contact
+## Wutci Support
 
-For privacy questions, contact us through 
-the App Store/Google Store review section.
+## Contact Us
+For questions or support, email us at:
+contact@wutci.com
+
+## Frequently Asked Questions
+
+**How do I delete my account?**
+Go to Profile → Settings → Delete Account.
+
+**What languages does Wutci support?**
+Currently Spanish. Arabic coming soon.
+
+**How do I report a bug?**
+Email contact@wutci.com with a description of the issue.
